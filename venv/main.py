@@ -1,5 +1,6 @@
 #  This Code write by RenSic_(OpenCV part), Wono(Arduio part)
 #  Project Name '누구인가? 누가 마스크를 쓰지 않았느냔 말이야?!' (KR) 1.0.0-Beta
+#  성남고 교내 발명품 경진대회 출품작(2020)
 
 #  -*- coding:utf-8 -*-
 #  -*- coding:cp949 -*-
